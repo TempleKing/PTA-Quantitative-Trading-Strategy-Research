@@ -1,0 +1,3 @@
+使用说明：
+默认使用'causis_api-0.5.3_basic_v1.tar.gz'进行causis_api安装；
+某些个别python环境，如在安装过程中如出现"setuptools"相关错误，可以尝试使用'causis_api-0.5.3_basic_v2.tar.gz'包进行安装。
